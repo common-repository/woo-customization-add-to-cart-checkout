@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.carbon-fields-collection .carbon-field.carbon-separator {
+	border: solid 1px #837C7D; 
+    background-color: #96588a !important;
+}
+.carbon-field.carbon-separator h3 {
+	color: white !important;
+	}
